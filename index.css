@@ -1,0 +1,39 @@
+
+
+.main-tile img {
+    width: 100%;
+    position: relative;
+  }
+  
+  .main-tile .overlay {
+    position: absolute;
+    top: 300px;
+    right: 400px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+  } 
+
+  .overlay { 
+    background: white;
+  }
+
+  .yoga-text { 
+    font-size: 10px;
+  }
+
+  .aerial-image { 
+    max-height: 200px;
+  }
+
+  .chatting-group { 
+    max-height: 300px;
+  }
+
+  .chatting-couple { 
+    max-height: 400px;
+  }
+
+  .fun-workout { 
+    max-height: 300px;
+  }
